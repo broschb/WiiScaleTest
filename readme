@@ -1,0 +1,1 @@
+Simple application to test and show how to call and Intent in Android for the WiiScale application.  This Intent returns the weight from the Wii Balance Board as a scale.
